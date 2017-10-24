@@ -1,0 +1,12 @@
+Z:\Adv Software Dev\Projects\LetterCounter\LetterCounter\bin\Debug\LetterCounter.exe.config
+Z:\Adv Software Dev\Projects\LetterCounter\LetterCounter\obj\Debug\LetterCounter.csprojResolveAssemblyReference.cache
+Z:\Adv Software Dev\Projects\LetterCounter\LetterCounter\bin\Debug\LetterCounter.exe
+Z:\Adv Software Dev\Projects\LetterCounter\LetterCounter\bin\Debug\LetterCounter.pdb
+Z:\Adv Software Dev\Projects\LetterCounter\LetterCounter\obj\Debug\LetterCounter.exe
+Z:\Adv Software Dev\Projects\LetterCounter\LetterCounter\obj\Debug\LetterCounter.pdb
+C:\Users\abaco\Downloads\New\Projects\LetterCounter\LetterCounter\bin\Debug\LetterCounter.exe.config
+C:\Users\abaco\Downloads\New\Projects\LetterCounter\LetterCounter\bin\Debug\LetterCounter.exe
+C:\Users\abaco\Downloads\New\Projects\LetterCounter\LetterCounter\bin\Debug\LetterCounter.pdb
+C:\Users\abaco\Downloads\New\Projects\LetterCounter\LetterCounter\obj\Debug\LetterCounter.csprojResolveAssemblyReference.cache
+C:\Users\abaco\Downloads\New\Projects\LetterCounter\LetterCounter\obj\Debug\LetterCounter.exe
+C:\Users\abaco\Downloads\New\Projects\LetterCounter\LetterCounter\obj\Debug\LetterCounter.pdb
