@@ -1,0 +1,12 @@
+Z:\Adv Software Dev\Projects\RectangleApplication\RectangleApplication\bin\Debug\RectangleApplication.exe.config
+Z:\Adv Software Dev\Projects\RectangleApplication\RectangleApplication\obj\Debug\RectangleApplication.csprojResolveAssemblyReference.cache
+Z:\Adv Software Dev\Projects\RectangleApplication\RectangleApplication\bin\Debug\RectangleApplication.exe
+Z:\Adv Software Dev\Projects\RectangleApplication\RectangleApplication\bin\Debug\RectangleApplication.pdb
+Z:\Adv Software Dev\Projects\RectangleApplication\RectangleApplication\obj\Debug\RectangleApplication.exe
+Z:\Adv Software Dev\Projects\RectangleApplication\RectangleApplication\obj\Debug\RectangleApplication.pdb
+C:\Users\abaco\Downloads\New\Projects\RectangleApplication\RectangleApplication\bin\Debug\RectangleApplication.exe.config
+C:\Users\abaco\Downloads\New\Projects\RectangleApplication\RectangleApplication\bin\Debug\RectangleApplication.exe
+C:\Users\abaco\Downloads\New\Projects\RectangleApplication\RectangleApplication\bin\Debug\RectangleApplication.pdb
+C:\Users\abaco\Downloads\New\Projects\RectangleApplication\RectangleApplication\obj\Debug\RectangleApplication.csprojResolveAssemblyReference.cache
+C:\Users\abaco\Downloads\New\Projects\RectangleApplication\RectangleApplication\obj\Debug\RectangleApplication.exe
+C:\Users\abaco\Downloads\New\Projects\RectangleApplication\RectangleApplication\obj\Debug\RectangleApplication.pdb
